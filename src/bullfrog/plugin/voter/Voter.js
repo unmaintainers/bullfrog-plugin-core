@@ -9,6 +9,7 @@ function VoterPlugin = function(bullfrogService) {
 };
 
 VoterPlugin.prototype = Object.create(APlugin.prototype);
+VoterPlugin.prototype.constructor = VoterPlugin;
 
 VoterPlugin.prototype.init = function() {
 	this.getBlockEmitter.on(function(block) {

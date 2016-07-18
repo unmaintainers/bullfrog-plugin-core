@@ -1,0 +1,5 @@
+{
+	"plugins": [
+		"bullfrog/plugin/Voter"
+	]
+}

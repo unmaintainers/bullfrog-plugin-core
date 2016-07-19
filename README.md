@@ -1,6 +1,7 @@
-Bullfrog Voter
+Bullfrog Core Plugins
 ----------------------------------------
 
-**Voting Plugin for Bullfrog STEEM Service**
+**Core plugins for the Bullfrog STEEM Service**
 
-Automatically up-votes on configured conditions.
+Voter: Automatically votes on configured conditions.
+Vote: Votes on a single comment.
